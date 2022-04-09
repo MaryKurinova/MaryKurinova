@@ -9,7 +9,7 @@
 
    <h2> 🔭 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟:</h2>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryKurinova)](https://github.com/MaryKurinova/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryKurinova&layout=compact)](https://github.com/MaryKurinova/github-readme-stats)
   
   
   <h2>⚡ 𝔸𝕟𝕕 𝕨𝕙𝕒𝕥 𝕒𝕓𝕠𝕦𝕥 𝕨𝕚𝕥𝕙𝕠𝕦𝕥 𝕖𝕧𝕖𝕣𝕪𝕠𝕟𝕖'𝕤 𝕗𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕒𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤?</h2>
