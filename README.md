@@ -1,9 +1,5 @@
 ### Hello to all visitors of my GITHUB👋
 
-<!--
-**MaryKurinova/MaryKurinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 My name is Maria, I'm a beginner back-end developer, but I also know a little about front-end development.
 
 Now I'm studying at the Hexlet programming school, writing projects, doing some coding myself, in other things, see my repositories for yourself :)
