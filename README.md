@@ -1,9 +1,9 @@
 ### 
 
-<h1 align="center">Hi there, I'm Maria!</a> 
+<h1 align="center">Hi there, I'm Maria!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior Backend-developer from Russia 🇷🇺</h3>
-<h3 align="center">And also i know front-end development</h3>
+<h3 align="center">Junior Backend-developer and also i know front-end development</h3>
+
 
 
 <h2>ℕ𝕠𝕨 𝕀'𝕞 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝕒𝕥 𝕥𝕙𝕖 ℍ𝕖𝕩𝕝𝕖𝕥 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕤𝕔𝕙𝕠𝕠𝕝, 𝕨𝕣𝕚𝕥𝕚𝕟𝕘 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤, 𝕕𝕠𝕚𝕟𝕘 𝕤𝕠𝕞𝕖 𝕔𝕠𝕕𝕚𝕟𝕘 𝕞𝕪𝕤𝕖𝕝𝕗, 𝕚𝕟 𝕠𝕥𝕙𝕖𝕣 𝕥𝕙𝕚𝕟𝕘𝕤, 𝕤𝕖𝕖 𝕞𝕪 𝕣𝕖𝕡𝕠𝕤𝕚𝕥𝕠𝕣𝕚𝕖𝕤 𝕗𝕠𝕣 𝕪𝕠𝕦𝕣𝕤𝕖𝕝𝕗 :)</h2>
