@@ -9,7 +9,11 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a19ed7c78f2a7e7c0eedfd79be173afd4f6b136750430e6b097391ba311258b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d46374446314526636f6c6f723d363838323945"><img src="https://camo.githubusercontent.com/a19ed7c78f2a7e7c0eedfd79be173afd4f6b136750430e6b097391ba311258b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d46374446314526636f6c6f723d363838323945" alt="" data-canonical-src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&amp;logo=JavaScript&amp;logoColor=F7DF1E&amp;color=68829E" style="max-width: 100%;"></a>
 
 
-- 🔭 I’m currently working on ...
+  🔭 <h2>𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟:</h2>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaryKuri)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,7 +23,7 @@
   
   
   
- ⚡ 𝔸𝕟𝕕 𝕨𝕙𝕒𝕥 𝕒𝕓𝕠𝕦𝕥 𝕨𝕚𝕥𝕙𝕠𝕦𝕥 𝕖𝕧𝕖𝕣𝕪𝕠𝕟𝕖'𝕤 𝕗𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕒𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤?
+ ⚡ <h2>𝔸𝕟𝕕 𝕨𝕙𝕒𝕥 𝕒𝕓𝕠𝕦𝕥 𝕨𝕚𝕥𝕙𝕠𝕦𝕥 𝕖𝕧𝕖𝕣𝕪𝕠𝕟𝕖'𝕤 𝕗𝕒𝕧𝕠𝕣𝕚𝕥𝕖 𝕒𝕔𝕙𝕚𝕖𝕧𝕖𝕞𝕖𝕟𝕥𝕤?</h2>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=MaryKurinova)](https://github.com/ryo-ma/github-profile-trophy)
 
