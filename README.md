@@ -19,4 +19,4 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=MaryKurinova)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝕊𝕠+𝕝𝕖𝕥'𝕤+𝕘𝕖𝕥 𝕥𝕠+𝕜𝕟𝕠𝕨+𝕖𝕒𝕔𝕙+𝕠𝕥𝕙𝕖𝕣?)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝕊𝕠+𝕝𝕖𝕥'𝕤+𝕘𝕖𝕥+𝕥𝕠+𝕜𝕟𝕠𝕨+𝕖𝕒𝕔𝕙+𝕠𝕥𝕙𝕖𝕣?)](https://git.io/typing-svg)
